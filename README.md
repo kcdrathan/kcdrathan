@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Chandra Deep Rathan K
-- 👀 I’m interested in Web Development and Machine Learning
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on Web Development, Mechine Learning
+- 👋 Hi there, I’m Chandra Deep Rathan K
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Spark
 - 📫 You can reach me through kcdrathan@gmail.com
 
 <!---
